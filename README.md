@@ -36,6 +36,8 @@ Ensure you have these libraries installed using the following:
 ```bash
 pip install tk pillow
 
+```
+
 Files Included
 dice_rolling.py: The main Python script for the Dice Rolling application.
 Die face images (die1.png, die2.png, ..., die6.png): Images of each face of a six-sided die.
@@ -45,6 +47,4 @@ You can customize the app by adding or replacing die face images. Make sure to u
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Feel free to explore, modify, and share this simple dice rolling app!
 
-``
